@@ -5,7 +5,7 @@ export function Simulations() {
   const [activeTab, setActiveTab] = useState('chapter1')
 
   const tabs = [
-    { id: 'chapter1', label: 'Chapitre 1', icon: Calculator },
+    { id: 'chapter1', label: 'Propriétés des Matériaux de Construction', icon: Calculator },
     { id: 'chapter2', label: 'Chapitre 2', icon: Beaker },
     { id: 'chapter3', label: 'Chapitre 3', icon: FlaskConical },
     { id: 'chapter4', label: 'Chapitre 4', icon: Building2 },
