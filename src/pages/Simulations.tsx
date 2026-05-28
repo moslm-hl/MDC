@@ -7,7 +7,7 @@ export function Simulations() {
   const tabs = [
     { id: 'chapter1', label: 'Propriétés des Matériaux de Construction', icon: Calculator },
     { id: 'chapter2', label: 'Analyse Granulométrique', icon: Beaker },
-    { id: 'chapter3', label: 'Simulation de Chaleur d'Hydratation', icon: FlaskConical },
+    { id: 'chapter3', label: 'Simulation de Chaleur d Hydratation', icon: FlaskConical },
     { id: 'chapter4', label: 'Le Béton', icon: Building2 },
   ]
 
